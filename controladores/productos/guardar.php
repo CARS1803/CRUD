@@ -1,5 +1,5 @@
 <?php
-require '../../modelos/Producto.php';
+require '../../modelos/Alumno.php';
 
 try {
     $producto = new Producto($_POST);
